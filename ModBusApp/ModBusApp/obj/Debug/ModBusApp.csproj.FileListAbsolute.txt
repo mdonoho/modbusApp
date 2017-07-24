@@ -1,0 +1,9 @@
+c:\users\mdonoho\documents\visual studio 2017\Projects\ModBusApp\ModBusApp\bin\Debug\ModBusApp.exe.config
+c:\users\mdonoho\documents\visual studio 2017\Projects\ModBusApp\ModBusApp\bin\Debug\ModBusApp.exe
+c:\users\mdonoho\documents\visual studio 2017\Projects\ModBusApp\ModBusApp\bin\Debug\ModBusApp.pdb
+c:\users\mdonoho\documents\visual studio 2017\Projects\ModBusApp\ModBusApp\obj\Debug\ModBusApp.csprojResolveAssemblyReference.cache
+c:\users\mdonoho\documents\visual studio 2017\Projects\ModBusApp\ModBusApp\obj\Debug\ModBusApp.Form1.resources
+c:\users\mdonoho\documents\visual studio 2017\Projects\ModBusApp\ModBusApp\obj\Debug\ModBusApp.Properties.Resources.resources
+c:\users\mdonoho\documents\visual studio 2017\Projects\ModBusApp\ModBusApp\obj\Debug\ModBusApp.csproj.GenerateResource.Cache
+c:\users\mdonoho\documents\visual studio 2017\Projects\ModBusApp\ModBusApp\obj\Debug\ModBusApp.exe
+c:\users\mdonoho\documents\visual studio 2017\Projects\ModBusApp\ModBusApp\obj\Debug\ModBusApp.pdb
